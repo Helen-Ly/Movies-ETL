@@ -1,0 +1,10 @@
+Kaggle Data
+
+As you will see, the ratings file is extremely big and as a result cannot be uploaded to github. Follow the steps below:
+
+1. Go onto the following website https://www.kaggle.com/rounakbanik/the-movies-dataset/
+2. Download the zip file.
+3. Extract the following files into your folder for this project:
+    
+    - movies_metadata.csv
+    - ratings.csv
